@@ -4,7 +4,7 @@
 
 - 🌱 Currently **learning** [Weak supervision](https://www.snorkel.org/blog/weak-supervision)
 
-- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/alicja-gosiewska/) or e-mail (is on the left ◀️)
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/alicja-gosiewska/) 
 
 - :page_facing_up: See my [resume](https://github.com/agosiewska/resume)
 
