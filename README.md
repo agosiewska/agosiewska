@@ -13,7 +13,7 @@
 
 PhD Student in Computer Science at Warsaw University of Technology.
 
-Working as Researcher in [MI2DataLab](https://mi2-warsaw.github.io/) and Machine Learning Engineer at [Tuatara](https://www.tuatara.pl/)
+Working as a Researcher at [MI2DataLab](https://mi2-warsaw.github.io/) and as a Machine Learning Engineer at [Tuatara](https://www.tuatara.pl/)
 
-My professional interests include Data Analysis and eXplainable Artificial Intelligence (XAI).
+My professional interests include eXplainable Artificial Intelligence (XAI) and Natural Language Processing (NLP).
 
