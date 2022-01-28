@@ -1,9 +1,5 @@
 ### Hi 👋
 
-- 🔭 Currently **working** on [XAI review](https://arxiv.org/abs/2009.13248) 
-
-- 🌱 Currently **learning** [Weak supervision](https://www.snorkel.org/blog/weak-supervision)
-
 - 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/alicja-gosiewska/) 
 
 - :page_facing_up: See my [resume](https://github.com/agosiewska/resume)
