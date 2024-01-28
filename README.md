@@ -7,7 +7,5 @@
 
 ### About me
 
-Senior Data Scientist at [Nevomo]([https://4semantics.pl/en/](https://www.nevomo.tech/pl/)).
-
 My professional interests include eXplainable Artificial Intelligence (XAI) and Computer Vision.
 
